@@ -3,10 +3,6 @@
 Programa em Python que lê registros de login, guarda os eventos num banco SQLite e mostra, numa página web, quais IPs tiveram muitas falhas de login (um sinal típico de ataque de força bruta).
 
 
-## Demonstração online
-
-[Clique aqui para abrir o painel](.streamlit.app)
-
 ## O que o painel mostra
 
 - Gráfico de barras com o número de falhas de login por IP
@@ -46,8 +42,3 @@ O painel abre no navegador, normalmente em `localhost:8501`.
 - Criar um painel visual com Streamlit
 - Escolher um limite de alerta: baixo demais gera alarmes falsos, alto demais deixa ataques passarem
 
-## Próximas ideias
-
-- Enviar o próprio arquivo de log pelo painel
-- Filtrar os eventos por data e por usuário
-- Mostrar em que horário acontecem mais falhas
