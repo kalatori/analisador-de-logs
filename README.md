@@ -10,8 +10,7 @@ Programa em Python que lê registros de login, guarda os eventos num banco SQLit
 <img width="807" height="841" alt="image" src="https://github.com/user-attachments/assets/3d7d0cc2-b8af-476c-ae92-1df90e2d5537" />
 
 
-[Clique aqui para abrir o painel]([COLE-O-LINK-DO-APP-AQUI](https://painel-logs.streamlit.app/)) 
-
+[Clique aqui para abrir o painel](https://painel-logs.streamlit.app/)
 
 ## O que o painel mostra
 
