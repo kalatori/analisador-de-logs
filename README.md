@@ -10,6 +10,9 @@ Programa em Python que lê registros de login, guarda os eventos num banco SQLit
 <img width="807" height="841" alt="image" src="https://github.com/user-attachments/assets/3d7d0cc2-b8af-476c-ae92-1df90e2d5537" />
 
 
+[Clique aqui para abrir o painel](.streamlit.app)
+
+
 ## O que o painel mostra
 
 - Gráfico de barras com o número de falhas de login por IP
