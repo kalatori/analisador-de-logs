@@ -3,6 +3,10 @@
 Programa em Python que lê registros de login, guarda os eventos num banco SQLite e mostra, numa página web, quais IPs tiveram muitas falhas de login (um sinal típico de ataque de força bruta).
 
 #demonstrção visual
+
+
+
+
 <img width="807" height="841" alt="image" src="https://github.com/user-attachments/assets/3d7d0cc2-b8af-476c-ae92-1df90e2d5537" />
 
 
